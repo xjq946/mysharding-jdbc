@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/shuipingfenbiao/pom.xml" />
+        <option value="$PROJECT_DIR$/shuipingfenku/pom.xml" />
+        <option value="$PROJECT_DIR$/shuipingfenku-shuipingfenbiao/pom.xml" />
+        <option value="$PROJECT_DIR$/chuizhifenku/pom.xml" />
+        <option value="$PROJECT_DIR$/public-table/pom.xml" />
+        <option value="$PROJECT_DIR$/duxiefenli/pom.xml" />
+        <option value="$PROJECT_DIR$/shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

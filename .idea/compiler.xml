@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable" />
+        <module name="shuipingfenku" />
+        <module name="public-table" />
+        <module name="duxiefenli" />
+        <module name="chuizhifenku" />
+        <module name="shuipingfenku-shuipingfenbiao" />
+        <module name="shuipingfenbiao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chuizhifenku" target="1.8" />
+      <module name="duxiefenli" target="1.8" />
+      <module name="public-table" target="1.8" />
+      <module name="shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable" target="1.8" />
+      <module name="shuipingfenbiao" target="1.8" />
+      <module name="shuipingfenku" target="1.8" />
+      <module name="shuipingfenku-shuipingfenbiao" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chuizhifenku" options="-parameters" />
+      <module name="duxiefenli" options="-parameters" />
+      <module name="public-table" options="-parameters" />
+      <module name="shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable" options="-parameters" />
+      <module name="shuipingfenbiao" options="-parameters" />
+      <module name="shuipingfenku" options="-parameters" />
+      <module name="shuipingfenku-shuipingfenbiao" options="-parameters" />
+    </option>
+  </component>
+</project>

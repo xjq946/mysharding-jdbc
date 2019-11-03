@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chuizhifenku/chuizhifenku.iml" filepath="$PROJECT_DIR$/chuizhifenku/chuizhifenku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duxiefenli/duxiefenli.iml" filepath="$PROJECT_DIR$/duxiefenli/duxiefenli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/public-table/public-table.iml" filepath="$PROJECT_DIR$/public-table/public-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable/shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable.iml" filepath="$PROJECT_DIR$/shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable/shuipiengfenbiao-shuipingfenku-chuizhifenbiao-chuizhifenku-pulictable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuipingfenbiao/shuipingfenbiao.iml" filepath="$PROJECT_DIR$/shuipingfenbiao/shuipingfenbiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuipingfenku/shuipingfenku.iml" filepath="$PROJECT_DIR$/shuipingfenku/shuipingfenku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuipingfenku-shuipingfenbiao/shuipingfenku-shuipingfenbiao.iml" filepath="$PROJECT_DIR$/shuipingfenku-shuipingfenbiao/shuipingfenku-shuipingfenbiao.iml" />
+    </modules>
+  </component>
+</project>
